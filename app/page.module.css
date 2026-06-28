@@ -1,0 +1,17 @@
+/* Homepage layout and styling */
+main {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+}
+
+h1 {
+  line-height: 1.2;
+}
+
+p {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}

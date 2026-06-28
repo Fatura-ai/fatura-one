@@ -1,0 +1,55 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# next.js
+.next/
+out/
+
+# production
+build
+
+# env files
+.env*
+!.env.example
+
+# vercel
+.vercel
+
+# prisma
+prisma/dev.db
+prisma/dev.db-journal
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# misc
+.DS_Store
+*.pem
+auth-show.json
+auth.deploy.json
+auth.show.body.json
+show.json
+show2.json
+dlq.list.json
+dlq.stats.json
+retry-stats.json
+test-body.json
+tool-publish-test.json
+check-env.js
+check-pass.js
+check-tables.js
+check-user.js
+create-admin.js
+verify-proof.js
+*.txt
+*.bak*
+*.backup*
+*.backup

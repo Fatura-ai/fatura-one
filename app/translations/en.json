@@ -1,0 +1,26 @@
+{
+  "title": "Welcome to Postara",
+  "subtitle": "One-click posting tool",
+  "menu_home": "Home",
+  "menu_tool": "Post Tool",
+  "menu_dashboard": "Dashboard",
+  "menu_pricing": "Pricing",
+  "menu_contact": "Contact",
+  "button_start": "Get Started",
+  "button_login": "Login",
+  "footer_rights": "All rights reserved © Postara 2025",
+
+  "tool_title": "Smart Posting Tool",
+  "tool_description": "Create, schedule, and publish posts to all your platforms in one click.",
+  "tool_upload": "Upload Image or Video",
+  "tool_caption": "Write your caption here...",
+  "tool_generate": "Generate Caption with AI",
+  "tool_preview": "Preview Post",
+  "tool_publish": "Publish Now",
+
+  "dashboard_title": "Analytics Dashboard",
+  "dashboard_subtitle": "Track performance across all platforms",
+  "dashboard_posts": "Total Posts",
+  "dashboard_engagement": "Engagement Rate",
+  "dashboard_followers": "Followers Growth"
+}

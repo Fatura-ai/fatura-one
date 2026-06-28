@@ -1,0 +1,26 @@
+{
+  "title": "Välkommen till Postara",
+  "subtitle": "Ett verktyg för engångspublicering",
+  "menu_home": "Hem",
+  "menu_tool": "Verktyg",
+  "menu_dashboard": "Instrumentpanel",
+  "menu_pricing": "Priser",
+  "menu_contact": "Kontakt",
+  "button_start": "Kom igång",
+  "button_login": "Logga in",
+  "footer_rights": "Alla rättigheter förbehållna © Postara 2025",
+
+  "tool_title": "Smart publiceringsverktyg",
+  "tool_description": "Skapa, schemalägg och publicera inlägg på alla plattformar med ett klick.",
+  "tool_upload": "Ladda upp bild eller video",
+  "tool_caption": "Skriv din bildtext här...",
+  "tool_generate": "Generera bildtext med AI",
+  "tool_preview": "Förhandsgranska inlägg",
+  "tool_publish": "Publicera nu",
+
+  "dashboard_title": "Analysinstrumentpanel",
+  "dashboard_subtitle": "Följ resultatet på alla plattformar",
+  "dashboard_posts": "Totalt antal inlägg",
+  "dashboard_engagement": "Engagemangsgrad",
+  "dashboard_followers": "Följartillväxt"
+}

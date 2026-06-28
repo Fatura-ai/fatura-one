@@ -1,0 +1,6 @@
+{
+  "installCommand": "npm install --legacy-peer-deps",
+  "crons": [
+    { "path": "/api/postara/retry/cron", "schedule": "0 0 * * *" }
+  ]
+}

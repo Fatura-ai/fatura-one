@@ -1,0 +1,26 @@
+{
+  "title": "مرحبًا بك في بوستارا",
+  "subtitle": "أداة النشر بنقرة واحدة",
+  "menu_home": "الرئيسية",
+  "menu_tool": "الأداة",
+  "menu_dashboard": "لوحة التحكم",
+  "menu_pricing": "الأسعار",
+  "menu_contact": "اتصال",
+  "button_start": "ابدأ الآن",
+  "button_login": "تسجيل الدخول",
+  "footer_rights": "جميع الحقوق محفوظة © بوستارا 2025",
+
+  "tool_title": "أداة النشر الذكية",
+  "tool_description": "أنشئ وجدول وانشر منشوراتك على جميع المنصات بنقرة واحدة.",
+  "tool_upload": "تحميل صورة أو فيديو",
+  "tool_caption": "اكتب التسمية التوضيحية هنا...",
+  "tool_generate": "إنشاء تسمية توضيحية بالذكاء الاصطناعي",
+  "tool_preview": "معاينة المنشور",
+  "tool_publish": "انشر الآن",
+
+  "dashboard_title": "لوحة تحليلات",
+  "dashboard_subtitle": "تتبع الأداء عبر جميع المنصات",
+  "dashboard_posts": "إجمالي المنشورات",
+  "dashboard_engagement": "معدل التفاعل",
+  "dashboard_followers": "نمو المتابعين"
+}
